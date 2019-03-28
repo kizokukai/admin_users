@@ -27,3 +27,7 @@
 - @t.oda
 - @m-hirao
 - @ikezoe makoto
+
+## Googleアカウント
+- @shalin
+- @ikezoe makoto
